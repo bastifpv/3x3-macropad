@@ -2,7 +2,8 @@
 
 ![handwired/bastifpv](imgur.com image replace me!)
 
-*A short description of the keyboard/project*
+This is a simple 3x3 macropad with the rp2040 Raspberry Pi Pico. 
+You can use VIA if you flash the VIA keymap.
 
 * Keyboard Maintainer: [Bastian Reuther](https://github.com/bastifpv)
 * Hardware Availability: 

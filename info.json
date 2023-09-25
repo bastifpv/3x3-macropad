@@ -14,13 +14,13 @@
     },
 
     "matrix_pins": {
-        "cols": ["GP2", "GP3", "GP4"],
+        "cols": ["GP4", "GP3", "GP2"],
         "rows": ["GP6", "GP7", "GP8"]
     },
     "processor": "RP2040",
     "url": "",
     "usb": {
-        "device_version": "2.0",
+        "device_version": "2.0.0",
         "pid": "0x7839",
         "vid": "0x4252"
     },
@@ -38,5 +38,8 @@
                 {"matrix": [2, 2], "x": 2, "y": 2}
             ]
         }
+    },
+    "bootmagic": {
+        "matrix": [0, 0]
     }
 }
