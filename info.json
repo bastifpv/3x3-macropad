@@ -1,6 +1,6 @@
 {
     "manufacturer": "Bastian Reuther",
-    "keyboard_name": "handwired/bastifpv",
+    "keyboard_name": "Basti3x3",
     "maintainer": "bastifpv",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",
@@ -21,8 +21,8 @@
     "url": "",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x0000",
-        "vid": "0xFEED"
+        "pid": "0x0002",
+        "vid": "0x4252"
     },
     "layouts": {
         "LAYOUT_ortho_3x3": {
